@@ -88,3 +88,9 @@ View, update, delete notes
 ❤️ System Health
 
 Health check endpoint for uptime monitoring
+
+
+🧑‍💻 Author
+
+Priyadarshan Satyam
+Backend Developer | Node.js | MongoDB | JWT
